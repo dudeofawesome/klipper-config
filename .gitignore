@@ -1,0 +1,7 @@
+# Firmware files
+*.hex
+
+# Klipper generated files
+printer.cfg
+printer-*_*.cfg
+
