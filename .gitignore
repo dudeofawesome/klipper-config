@@ -1,5 +1,6 @@
 # Firmware files
 *.hex
+*.bin
 
 # Klipper generated files
 printer.cfg
