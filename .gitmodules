@@ -1,0 +1,6 @@
+[submodule "modules/Dynamic_BED_MESH_CALIBRATE"]
+	path = modules/Dynamic_BED_MESH_CALIBRATE
+	url = git@github.com:kmarty/Dynamic_BED_MESH_CALIBRATE.git
+[submodule "modules/moonraker-timelapse"]
+	path = modules/moonraker-timelapse
+	url = git@github.com:mainsail-crew/moonraker-timelapse.git
